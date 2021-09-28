@@ -4,4 +4,4 @@ function getName() {
 	return a + "" + b;
 
 }
-console.log(b);
+console.log(bdsadsa);
